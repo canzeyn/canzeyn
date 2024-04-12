@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zeyn</h1>
 <h3 align="center">A passionate web developer from türkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canzeyn" alt="canzeyn" /></a> </p>
+
 
 - 🌱 I’m currently learning **Fullstack Web Development with React and Node.js**
 
@@ -17,3 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canzeyn&show_icons=true&locale=en&layout=compact" alt="canzeyn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canzeyn&" alt="canzeyn" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canzeyn" alt="canzeyn" />
+ </a> </p>
