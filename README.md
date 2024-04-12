@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm zeyn</h1>
 <h3 align="center">A passionate web developer from türkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canzeyn" alt="canzeyn" /></a> </p>
-
 - 🌱 I’m currently learning **Fullstack Web Development with React and Node.js**
 
 - 💬 Ask me about **React , Node.js**
